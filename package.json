@@ -1,5 +1,5 @@
 {
-  "name": "express-advanced",
+  "name": "node-express-advanced",
   "version": "1.0.0",
   "description": "Exemplo um pouco mais avançado de utilização do framework Express",
   "main": "index.js",
